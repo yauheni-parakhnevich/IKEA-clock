@@ -6,8 +6,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
-const char *ssid     = "***REMOVED***";
-const char *password = "***REMOVED***";
+const char *ssid     = "*****";
+const char *password = "*****";
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP);
